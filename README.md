@@ -1,0 +1,2 @@
+# Harakiricoin
+Harakiri coin
